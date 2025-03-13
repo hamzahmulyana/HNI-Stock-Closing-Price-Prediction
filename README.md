@@ -20,8 +20,8 @@ To get this project, you can clone it by running the following command:
 
 The directory structure of this project is organized as follows:
 
-├── README.md          <- The top-level README for developers using this project.
+├── README.md       <- The top-level README for developers using this project.
 │
-├── HNI.csv        <- Dataset for this project.
+├── HNI.csv         <- Dataset for this project.
 │
-└── Script.ipynb  <- Jupyter Notebook for the project.
+└── Script.ipynb    <- Jupyter Notebook for the project.
